@@ -1,0 +1,9 @@
+name: 'WordPress Plugin Webpack Build'
+description: 'Webpack Build for WordPress Plugin'
+author: 'Mehul Gohil'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'upload-cloud'
+  color: 'blue'
